@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/yon3zu/403WebShell/main/403webshells.png)
 403WebShell is a improvement from LitespeedShellv2 i build this shell For educational purposes only, all kinds of illegal use is prohibited and developer are not responsible for any misuse or damage caused by this program.<br/>
 ![php](https://img.shields.io/badge/PHP-8.2-bf616a?style=flat-square)
-![licence](https://img.shields.io/badge/LICENE-GPL2.0-ebcb8b?style=flat-square)
+![licence](https://img.shields.io/badge/LICENE-GPL3.0-ebcb8b?style=flat-square)
 ![version](https://img.shields.io/badge/VERSION-1.2.0-a3be8c?style=flat-square)
 
 ## _features_
@@ -40,7 +40,7 @@
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/)](https://fsf.org/)<br>
+ Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/](https://fsf.org/)<br>
  Everyone is permitted to copy and distribute verbatim copies<br>
  of this license document, but changing it is not allowed.
 
