@@ -2,7 +2,7 @@
 403WebShell is a improvement from LitespeedShellv2 i build this shell For educational purposes only, all kinds of illegal use is prohibited and developer are not responsible for any misuse or damage caused by this program.<br/>
 ![php](https://img.shields.io/badge/PHP-8.2-bf616a?style=flat-square)
 ![licence](https://img.shields.io/badge/LICENE-GPL2.0-ebcb8b?style=flat-square)
-![version](https://img.shields.io/badge/VERSION-1.3.0-a3be8c?style=flat-square)
+![version](https://img.shields.io/badge/VERSION-1.2.0-a3be8c?style=flat-square)
 
 ## _features_
 
