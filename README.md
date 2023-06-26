@@ -37,13 +37,13 @@
 
 ## _license_
 
-GNU GENERAL PUBLIC LICENSE<br/>
-Version 2, June 1991
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-Copyright (C) 1989, 1991 Free Software Foundation, Inc.,<br/>
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA<br/>
-Everyone is permitted to copy and distribute verbatim copies<br/>
-of this license document, but changing it is not allowed.
+ Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/)](https://fsf.org/)<br>
+ Everyone is permitted to copy and distribute verbatim copies<br>
+ of this license document, but changing it is not allowed.
+
 
 ## _reference_
 
