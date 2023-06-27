@@ -28,7 +28,6 @@
   - Server IP
   - Client IP
   - Safe Mode
-  - Free Space
   - PHP Version
   - MYSQL | PKEXEC | WGET | CURL | PERL | PYTHON | SUDO
 - Create File
