@@ -19,6 +19,8 @@
   - File permission
   - File owner/group
   - File last modified
+  - Touch
+  - Download
 - Upload File
   - Current Directory
   - Root Directory
