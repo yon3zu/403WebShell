@@ -27,7 +27,7 @@
   - System
   - Server IP
   - Client IP
-  - Safe Mode
+  - Disable Function
   - PHP Version
   - MYSQL | PKEXEC | WGET | CURL | PERL | PYTHON | SUDO
 - Create File
